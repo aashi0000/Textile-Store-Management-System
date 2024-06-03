@@ -1,0 +1,1 @@
+This is a Textile store management system written in SQL and PLSQL. All scripts can be run on Oracle Live Server.
